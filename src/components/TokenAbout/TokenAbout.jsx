@@ -183,8 +183,7 @@ class TokenAbout extends Component {
                 <h4>How does the draw work?</h4>
                 <p>
                   All eligible tokens in the pool (see ‘Are all tokens in the Pool eligible for
-                  voting?’) will be entered into the Token Draw held on the second Friday of the
-                  month.
+                  voting?’) will be entered into the Token Draw held on the last Tuesday of the month.
                 </p>
                 <p>
                   The draw is live streamed for complete transparency using a process that ensures
